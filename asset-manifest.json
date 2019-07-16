@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MyFavoriteWords/static/css/main.50b17420.chunk.css",
+    "main.js": "/MyFavoriteWords/static/js/main.0beb4c6c.chunk.js",
+    "main.js.map": "/MyFavoriteWords/static/js/main.0beb4c6c.chunk.js.map",
+    "runtime~main.js": "/MyFavoriteWords/static/js/runtime~main.0b83e010.js",
+    "runtime~main.js.map": "/MyFavoriteWords/static/js/runtime~main.0b83e010.js.map",
+    "static/js/2.b6856631.chunk.js": "/MyFavoriteWords/static/js/2.b6856631.chunk.js",
+    "static/js/2.b6856631.chunk.js.map": "/MyFavoriteWords/static/js/2.b6856631.chunk.js.map",
+    "index.html": "/MyFavoriteWords/index.html",
+    "precache-manifest.9f7a8f8df97e28bed11253401b792ab8.js": "/MyFavoriteWords/precache-manifest.9f7a8f8df97e28bed11253401b792ab8.js",
+    "service-worker.js": "/MyFavoriteWords/service-worker.js",
+    "static/css/main.50b17420.chunk.css.map": "/MyFavoriteWords/static/css/main.50b17420.chunk.css.map"
+  }
+}
